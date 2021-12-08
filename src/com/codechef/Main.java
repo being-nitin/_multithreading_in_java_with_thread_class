@@ -22,3 +22,6 @@ class multi2 extends Thread{
         System.out.println("thread2 is running");
     }
 }
+/* after extending the thread class there should be a run method and to execute that run method we have to call
+start method.
+ */
